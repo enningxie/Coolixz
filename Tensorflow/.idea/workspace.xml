@@ -65,6 +65,18 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="cifar10_input.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/examples/cifar10/cifar10_input.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="532">
+              <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+              <folding>
+                <element signature="e#61#99#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="05_csv_reader.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/05_csv_reader.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -78,7 +90,7 @@
       <file leaf-file-name="test.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/examples/test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
+            <state relative-caret-position="308">
               <caret line="15" column="9" lean-forward="false" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="9" />
               <folding>
                 <element signature="e#0#38#0" expanded="true" />
@@ -97,10 +109,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="fully_connected_feed.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="fully_connected_feed.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/examples/mnist/fully_connected_feed.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="781">
+            <state relative-caret-position="719">
               <caret line="36" column="38" lean-forward="false" selection-start-line="36" selection-start-column="38" selection-end-line="36" selection-end-column="38" />
               <folding>
                 <element signature="e#76#114#0" expanded="true" />
@@ -114,16 +126,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="1204">
               <caret line="43" column="0" lean-forward="false" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="utils.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/utils.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="15" column="12" lean-forward="false" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
               <folding />
             </state>
           </provider>
@@ -185,6 +187,7 @@
         <option value="$PROJECT_DIR$/examples/test.py" />
         <option value="$PROJECT_DIR$/examples/regression/linear_regression.py" />
         <option value="$PROJECT_DIR$/examples/mnist/fully_connected_feed.py" />
+        <option value="$PROJECT_DIR$/examples/cifar10/cifar10_input.py" />
       </list>
     </option>
   </component>
@@ -194,11 +197,11 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="211" />
-    <option name="y" value="352" />
-    <option name="width" value="926" />
-    <option name="height" value="1020" />
+  <component name="ProjectFrameBounds" extendedState="4">
+    <option name="x" value="992" />
+    <option name="y" value="24" />
+    <option name="width" value="928" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -215,6 +218,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -231,14 +235,13 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../DeepLearning/models-master" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../face_recognition-master" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -376,10 +379,10 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="65" y="24" width="1855" height="1056" extended-state="6" />
+    <frame x="992" y="24" width="928" height="1056" extended-state="4" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22030237" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21982759" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -410,7 +413,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22030237" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21982759" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -434,13 +437,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/tutorials_05.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="644">
-          <caret line="24" column="72" lean-forward="false" selection-start-line="24" selection-start-column="72" selection-end-line="24" selection-end-column="72" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/tutorials_06.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="56">
@@ -708,9 +704,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="6216">
           <caret line="237" column="2" lean-forward="false" selection-start-line="237" selection-start-column="2" selection-end-line="237" selection-end-column="2" />
-          <folding>
-            <element signature="e#0#38#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -718,9 +711,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="952">
           <caret line="38" column="23" lean-forward="false" selection-start-line="38" selection-start-column="23" selection-end-line="38" selection-end-column="23" />
-          <folding>
-            <element signature="e#49#72#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -763,16 +753,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/04_word2vector_visualize.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="4" column="17" lean-forward="false" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
-          <folding>
-            <element signature="e#214#252#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/05_radomization.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1204">
@@ -791,7 +771,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/examples/test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
+        <state relative-caret-position="308">
           <caret line="15" column="9" lean-forward="false" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="9" />
           <folding>
             <element signature="e#0#38#0" expanded="true" />
@@ -809,10 +789,30 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/examples/mnist/fully_connected_feed.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="781">
+        <state relative-caret-position="719">
           <caret line="36" column="38" lean-forward="false" selection-start-line="36" selection-start-column="38" selection-end-line="36" selection-end-column="38" />
           <folding>
             <element signature="e#76#114#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04_word2vector_visualize.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="4" column="17" lean-forward="false" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+          <folding>
+            <element signature="e#214#252#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/cifar10/cifar10_input.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding>
+            <element signature="e#61#99#0" expanded="true" />
           </folding>
         </state>
       </provider>
